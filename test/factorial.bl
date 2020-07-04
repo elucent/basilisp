@@ -1,0 +1,2 @@
+(let add (int x) (lambda (int y) (+ x y)))
+((add 1) 2)
